@@ -1,6 +1,0 @@
-Transaction Date|		Credit Amount|		Debit Amount|		CCY|			Bank|		Account Number		   
-12/25/2027				$      0.99								CAD			JPCA - MA			Account JWL							   
-05/12/2019				$    349.70			$    349.70			USD			JPNY - CA			Account LMO				 	
-08/12/2013				$  2,203.21			$  2,203.21			EUR			JPNY - IL			Account ZZZ					
-01/01/2004				$ 23,434.00 							USD			JPMC - NY			Account DEF					
-04/02/1996 				$239,349.00								USD			JPMC - NY 			Account ABC					
