@@ -1,0 +1,6 @@
+Bank	  	| CCY	  | Account Number	| Transaction Date |Credit Amount	 |Debit Amount
+JPMC - NY 	USD		Account ABC			04/02/1996		$239,349.00		   
+JPMC - NY	USD		Account DEF			01/01/2004		$ 23,434.00		   	
+JPNY - CA	USD		Account LMO			05/12/2019	 	$    349.70		   $    349.70
+JPCA - MA	CAD		Account JWL			12/25/2027		$      0.99		   
+JPNY - IL	EUR		Account ZZZ			08/12/2013		$  2,203.21		   $  2,203.21
